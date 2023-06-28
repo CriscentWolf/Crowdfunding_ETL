@@ -1,5 +1,5 @@
 ---
-# title: "Project 2: Crowdfunding ETL"
+# "Project 2: Crowdfunding ETL"
 ---
 <div id="bootcamp"><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m13/lms/img/banner.png" alt="lesson banner" />
 
